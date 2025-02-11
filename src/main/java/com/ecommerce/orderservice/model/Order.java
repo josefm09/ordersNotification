@@ -35,9 +35,3 @@ public class Order {
     }
 }
 
-public enum OrderStatus {
-    PROCESSING,
-    SHIPPED,
-    DELIVERED,
-    CANCELLED
-} 
